@@ -1,0 +1,28 @@
+{
+  "name": "webservices-template",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@feathersjs/express": "^1.2.0",
+    "@feathersjs/feathers": "^3.1.3",
+    "@feathersjs/socketio": "^3.2.0",
+    "bcrypt": "^2.0.1",
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "feathers-validator": "^1.0.4",
+    "moment": "^2.22.2",
+    "mysql2": "^1.5.2",
+    "multer": "^1.3.0",
+    "node-schedule": "^1.3.0",
+    "pdfmake": "^0.1.36",
+    "randomstring": "^1.1.5",
+    "sequelize": "^4.36.1",
+    "sequelize-hierarchy": "^1.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
