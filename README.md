@@ -1,1 +1,2 @@
-"# feathers_project_template_with_sequelize_orm" 
+Feathers.js Project Template With Sequelize ORM
+----------------------------------------------- 
