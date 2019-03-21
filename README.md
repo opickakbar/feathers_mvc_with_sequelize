@@ -1,2 +1,4 @@
-Feathers.js Project Template With Sequelize ORM
------------------------------------------------ 
+Feathers.js MVC With Sequelize
+-----------------------------------------------
+
+This is Feathersjs MVC example with Sequelize ORM.
