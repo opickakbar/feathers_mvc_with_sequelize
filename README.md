@@ -1,4 +1,4 @@
-Feathers.js MVC With Sequelize
+Feathers.js With Sequelize ORM
 -----------------------------------------------
 
-This is Feathersjs MVC example with Sequelize ORM.
+This is Feathersjs example with Sequelize ORM.
